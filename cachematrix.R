@@ -2,8 +2,6 @@
 ##---------------------
 
 
-## functions do
-
 ## makeCacheMatrix function
 ## This function create a list of functions to manipulate the data of a matrix invertible
 makeCacheMatrix <- function(x = matrix()) {
